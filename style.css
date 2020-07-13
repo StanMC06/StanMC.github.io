@@ -1,5 +1,6 @@
 body{
   background-color: black;
+  opacity: 1.5;
 }
 
 .title{
@@ -27,12 +28,19 @@ body{
   position: relative;
   color: #5050ff;
   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-  top: 200px;
-  margin: auto;
+  top: 150px;
   width: 50%;
-  padding: 10px;
+  
   
 }
+
+.youtube{
+  position: relative;
+  top: 150;
+  left: 60%;
+}
+
+
 
 #twitch-embed {
   position: relative;
