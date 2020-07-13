@@ -23,6 +23,17 @@ body{
   
 }
 
+.video{
+  position: relative;
+  color: #5050ff;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  top: 200px;
+  margin: auto;
+  width: 50%;
+  padding: 10px;
+  
+}
+
 #twitch-embed {
   position: relative;
   bottom: 100%;
