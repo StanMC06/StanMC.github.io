@@ -24,29 +24,7 @@ body{
   
 }
 
-.video{
-  position: relative;
-  color: #5050ff;
-  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-  top: 150px;
-  width: 50%;
-  
-  
-}
 
-.youtube{
-  position: relative;
-  top: 150;
-  left: 60%;
-}
-
-
-
-#twitch-embed {
-  position: relative;
-  bottom: 100%;
-  left: 40%;
-}
 
 .myButton {
   position: relative;
