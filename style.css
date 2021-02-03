@@ -14,7 +14,7 @@ body{
 }
 
 .text{
-  position: static;
+  position: relative;
   color: #5050ff;
   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
   top: 110px;
